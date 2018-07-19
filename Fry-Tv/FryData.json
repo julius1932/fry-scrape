@@ -1,0 +1,2521 @@
+[{
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3286"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX-1131   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3287"
+    },
+    "Brand": "Denon",
+    "Model": "AVR-X3100W ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3288"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX1300W  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3289"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX2300W  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c328a"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR535    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c328c"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX-LX101  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c328d"
+    },
+    "Brand": "Yamaha",
+    "Model": "TSR-5790BL ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c328e"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-SR353   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c328b"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR575    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c328f"
+    },
+    "Brand": "Yamaha",
+    "Model": "R-S500BL   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3290"
+    },
+    "Brand": "Yamaha",
+    "Model": "R-S300BL   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3291"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-S601BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3293"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-NR646   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3294"
+    },
+    "Brand": "Pioneer",
+    "Model": "SX-N30     ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3295"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX3300W  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3296"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A550BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3297"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR636    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e7f5e299a9ffc8c3292"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR737    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c3298"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V483BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c3299"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-8160    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c329a"
+    },
+    "Brand": "Denon",
+    "Model": "AVR-X5200W ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c329b"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V583BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c329c"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX-LX301  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c329d"
+    },
+    "Brand": "Pioneer",
+    "Model": "SCLX501    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c329e"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A1060BL ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c329f"
+    },
+    "Brand": "Sony",
+    "Model": "STRDN1070  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a0"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX-90     ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a1"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS720W   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a2"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A760BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a3"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V779BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a4"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V381BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a5"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX-831    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a6"
+    },
+    "Brand": "Pioneer",
+    "Model": "Elite SC-95",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a7"
+    },
+    "Brand": "Onkyo",
+    "Model": "HT-R593 REFURBISHED ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a8"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX-531    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32a9"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A660BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32aa"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V581BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e905e299a9ffc8c32ab"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-NR1030  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32ac"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX532     ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32ad"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS530BT  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32ae"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS930H   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32af"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX1400H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b0"
+    },
+    "Brand": "Yamaha",
+    "Model": "TSR-5810BL ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b1"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS730H   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b3"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX932     ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b2"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-RZ820   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b4"
+    },
+    "Brand": "Yamaha",
+    "Model": "TSR-7810BL ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b5"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSXLX102   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b6"
+    },
+    "Brand": "Sony",
+    "Model": "STRDH770   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b7"
+    },
+    "Brand": "Sony",
+    "Model": "STRDH750   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b8"
+    },
+    "Brand": "Sony",
+    "Model": "STR-DH130  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32b9"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A770BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32ba"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-RZ610   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32bb"
+    },
+    "Brand": "Denon",
+    "Model": "AVR-S700W  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32bc"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V383BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32bd"
+    },
+    "Brand": "Sony",
+    "Model": "STRDH550   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32be"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS920W   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2e995e299a9ffc8c32bf"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-NR656   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c0"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A3070BL ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c1"
+    },
+    "Brand": "Sony",
+    "Model": "STRDH190   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c2"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-SR373   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c3"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX6300H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c4"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A2070BL ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c5"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-8140    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c6"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX8020     ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c7"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-NR777   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c8"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-RZ620   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32c9"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-RZ720   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32ca"
+    },
+    "Brand": "Pioneer",
+    "Model": "SCLX801    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32cb"
+    },
+    "Brand": "Pioneer",
+    "Model": "SCLX901    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32cc"
+    },
+    "Brand": "Pioneer",
+    "Model": "SCLX701    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32cd"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX8500H BK        ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32ce"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX6400H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32cf"
+    },
+    "Brand": "Yamaha",
+    "Model": "R-S700BL   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32d1"
+    },
+    "Brand": "Harman Kardon",
+    "Model": "AVR 1510S  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32d0"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V585BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32d2"
+    },
+    "Brand": "Harman Kardon",
+    "Model": "AVR 1610S  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2ea65e299a9ffc8c32d3"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSXLX302   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32d4"
+    },
+    "Brand": "Yamaha",
+    "Model": "R-S202     ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32d5"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR676    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32d6"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A780BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32d7"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS540BT  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32d9"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V385BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32d8"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX3400H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32da"
+    },
+    "Brand": "Yamaha",
+    "Model": "R-N303BL   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32db"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A1070BL ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32dc"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSX832     ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32dd"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS640H   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32de"
+    },
+    "Brand": "Sony",
+    "Model": "STRDH590   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32df"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-8270    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e0"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX4400H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e1"
+    },
+    "Brand": "Yamaha",
+    "Model": "R-N301BL   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e2"
+    },
+    "Brand": "Sony",
+    "Model": "STRDH790   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e3"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V485BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e4"
+    },
+    "Brand": "Klipsch",
+    "Model": "1064561    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e5"
+    },
+    "Brand": "Klipsch",
+    "Model": "1065137    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e6"
+    },
+    "Brand": "Teac",
+    "Model": "CRH101B    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eaf5e299a9ffc8c32e7"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXSR383    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32e8"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR585    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32ea"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-A870BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32e9"
+    },
+    "Brand": "Sony",
+    "Model": "STRDN1080  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32eb"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX2400H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32ec"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSXLX303   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32ed"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-RZ3100  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32ef"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX2500H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f0"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS940H   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f1"
+    },
+    "Brand": "Denon",
+    "Model": "AVRX1500H  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f2"
+    },
+    "Brand": "Yamaha",
+    "Model": "RX-V685BL  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f4"
+    },
+    "Brand": "Harman Kardon",
+    "Model": "HK 3700    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f5"
+    },
+    "Brand": "Harman Kardon",
+    "Model": "HK 3770    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f6"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSXLX502   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f7"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR686    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f9"
+    },
+    "Brand": "Denon",
+    "Model": "AVRS740H   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32fa"
+    },
+    "Brand": "ELAC",
+    "Model": "DS-S101    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32fb"
+    },
+    "Brand": "Onkyo",
+    "Model": "TX-RZ1100  ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32ee"
+    },
+    "Brand": "Onkyo",
+    "Model": "TXNR787    ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f3"
+    },
+    "Brand": "Pioneer",
+    "Model": "VSXLX103   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f2eb55e299a9ffc8c32f8"
+    },
+    "Brand": "Yamaha",
+    "Model": "R-N602BL   ",
+    "category": "Audio/Video Receiver",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f91b"
+    },
+    "Brand": "Sony",
+    "Model": "HT-ST7     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f91c"
+    },
+    "Brand": "Sony",
+    "Model": "HTST5      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f91d"
+    },
+    "Brand": "Bose",
+    "Model": "740928-1110",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f91e"
+    },
+    "Brand": "Sony",
+    "Model": "HTCT380    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f91f"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-K450/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f920"
+    },
+    "Brand": "LG",
+    "Model": "SJ4Y       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f921"
+    },
+    "Brand": "Naxa",
+    "Model": "NHS-2007   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f922"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-J355/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f923"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-J250    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f924"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-F355/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f925"
+    },
+    "Brand": "LG",
+    "Model": "SPJ4-S     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f926"
+    },
+    "Brand": "Philips",
+    "Model": "HTL2161B/F7B        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f927"
+    },
+    "Brand": "iLive",
+    "Model": "ITB195B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f928"
+    },
+    "Brand": "iLive",
+    "Model": "ITB284B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f929"
+    },
+    "Brand": "Grand Prix",
+    "Model": "iT123B     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f92a"
+    },
+    "Brand": "SYBA",
+    "Model": "CL-SPK20149",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f92b"
+    },
+    "Brand": "SYBA",
+    "Model": "CL-SPK20037",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f92c"
+    },
+    "Brand": "Philips",
+    "Model": "HTL2101A/F7B        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f92d"
+    },
+    "Brand": "Polk Audio",
+    "Model": "AM8114-A   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3102946e76269d62f92e"
+    },
+    "Brand": "Polk Audio",
+    "Model": "AM6914-A   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f92f"
+    },
+    "Brand": "Yamaha",
+    "Model": "YAS-706BL  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f930"
+    },
+    "Brand": "LG",
+    "Model": "SJ9        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f931"
+    },
+    "Brand": "JBL",
+    "Model": "JBLSB450BLKAM       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f932"
+    },
+    "Brand": "Sony",
+    "Model": "HTCT390    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f933"
+    },
+    "Brand": "LG",
+    "Model": "SJ5Y-S     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f934"
+    },
+    "Brand": "JBL",
+    "Model": "SB400      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f935"
+    },
+    "Brand": "LG",
+    "Model": "SJ5Y       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f936"
+    },
+    "Brand": "Sony",
+    "Model": "HTCT780    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f937"
+    },
+    "Brand": "Sony",
+    "Model": "HTXT2      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f938"
+    },
+    "Brand": "iLive",
+    "Model": "ITB296B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f939"
+    },
+    "Brand": "Sanyo",
+    "Model": "RFWSB426F  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f93a"
+    },
+    "Brand": "Boston",
+    "Model": "TVee26REFURBISHED   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f93b"
+    },
+    "Brand": "iLive",
+    "Model": "IT082B     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f93c"
+    },
+    "Brand": "Boston",
+    "Model": "TVee10     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f93d"
+    },
+    "Brand": "Grand Prix",
+    "Model": "ITP152B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f93e"
+    },
+    "Brand": "Onkyo",
+    "Model": "LSB-50     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f93f"
+    },
+    "Brand": "Sony",
+    "Model": "HT-CT80    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f940"
+    },
+    "Brand": "LG",
+    "Model": "LAS454B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f941"
+    },
+    "Brand": "JBL",
+    "Model": "CINEMA SB400-Z      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3110946e76269d62f942"
+    },
+    "Brand": "Sony",
+    "Model": "HTST9      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f943"
+    },
+    "Brand": "Yamaha",
+    "Model": "YAS-107BL  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f944"
+    },
+    "Brand": "LG",
+    "Model": "SK5Y       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f945"
+    },
+    "Brand": "LG",
+    "Model": "SJ7        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f946"
+    },
+    "Brand": "Sony",
+    "Model": "HTCT790    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f947"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-N550/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f948"
+    },
+    "Brand": "Sony",
+    "Model": "HTCT290    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f949"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-M550/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f94a"
+    },
+    "Brand": "Polk Audio",
+    "Model": "AM6946-A   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f94b"
+    },
+    "Brand": "LG",
+    "Model": "SJ8        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f94d"
+    },
+    "Brand": "LG",
+    "Model": "SJ6B       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f94c"
+    },
+    "Brand": "LG",
+    "Model": "SH7B       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f94e"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-M450/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f94f"
+    },
+    "Brand": "Polk Audio",
+    "Model": "AM8111-A   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f950"
+    },
+    "Brand": "LG",
+    "Model": "SJ4R       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f951"
+    },
+    "Brand": "LG",
+    "Model": "SJ4Y-S     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f953"
+    },
+    "Brand": "LG",
+    "Model": "SK1        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f952"
+    },
+    "Brand": "LG",
+    "Model": "SH2        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f954"
+    },
+    "Brand": "Naxa",
+    "Model": "NHS-2006   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f955"
+    },
+    "Brand": "LG",
+    "Model": "SK6Y       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3116946e76269d62f956"
+    },
+    "Brand": "iLive",
+    "Model": "ITB404B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f957"
+    },
+    "Brand": "JBL",
+    "Model": "JBLBAR51BLKAM       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f958"
+    },
+    "Brand": "Yamaha",
+    "Model": "YAS-207BL  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f959"
+    },
+    "Brand": "Polk Audio",
+    "Model": "AM9114-A   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f95a"
+    },
+    "Brand": "Klipsch",
+    "Model": "R-4B Sound bar      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f95b"
+    },
+    "Brand": "Harman Kardon",
+    "Model": "HKSB20BLKAM",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f95c"
+    },
+    "Brand": "Klipsch",
+    "Model": "RSB-11     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f95d"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-MS750/ZA",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f95e"
+    },
+    "Brand": "LG",
+    "Model": "SK8Y       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f95f"
+    },
+    "Brand": "Naxa",
+    "Model": "NHS-2012   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f960"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-M4500/ZA",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f961"
+    },
+    "Brand": "Sanyo",
+    "Model": "RFWSB405FS ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f962"
+    },
+    "Brand": "Naxa",
+    "Model": "NHS-2011   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f963"
+    },
+    "Brand": "Klipsch",
+    "Model": "RSB-6      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f964"
+    },
+    "Brand": "iLive",
+    "Model": "ITBSW397B  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f965"
+    },
+    "Brand": "LG",
+    "Model": "SK10Y      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f966"
+    },
+    "Brand": "Jamo",
+    "Model": "1064484    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f967"
+    },
+    "Brand": "Klipsch",
+    "Model": "1064190    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f968"
+    },
+    "Brand": "Jamo",
+    "Model": "1064333    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f969"
+    },
+    "Brand": "JBL",
+    "Model": "JBLBAR31BLKAM       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3120946e76269d62f96a"
+    },
+    "Brand": "Polk Audio",
+    "Model": "MagniFI MAX SYSTEM  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f96b"
+    },
+    "Brand": "JBL",
+    "Model": "JBLBAR21BLKAM       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f96c"
+    },
+    "Brand": "Sony",
+    "Model": "HTX9000F   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f96d"
+    },
+    "Brand": "Toshiba",
+    "Model": "TY-SBX130  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f96e"
+    },
+    "Brand": "iLive",
+    "Model": "ITB105B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f96f"
+    },
+    "Brand": "Sony",
+    "Model": "HTZ9F      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f970"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-N400/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f971"
+    },
+    "Brand": "Sony",
+    "Model": "HTS200F    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f973"
+    },
+    "Brand": "Sony",
+    "Model": "HTS100F    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f972"
+    },
+    "Brand": "Sanyo",
+    "Model": "RFWSB415E  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f974"
+    },
+    "Brand": "Sony",
+    "Model": "HTCT800    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f975"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-N450/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f976"
+    },
+    "Brand": "Jamo",
+    "Model": "1064187    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f978"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-MS550/ZA",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f979"
+    },
+    "Brand": "Jamo",
+    "Model": "1064193    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f97a"
+    },
+    "Brand": "LG",
+    "Model": "SJ2        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f97b"
+    },
+    "Brand": "Grand Prix",
+    "Model": "iTBSW285B  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f97d"
+    },
+    "Brand": "iLive",
+    "Model": "ITB066B    ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f977"
+    },
+    "Brand": "Sony",
+    "Model": "HTMT300/B  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f97e"
+    },
+    "Brand": "LG",
+    "Model": "SK9Y       ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f312a946e76269d62f97c"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-M360/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f97f"
+    },
+    "Brand": "JBL",
+    "Model": "JBLBARSBLKAM        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f980"
+    },
+    "Brand": "Bose",
+    "Model": "732522-1110",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f981"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-N650/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f982"
+    },
+    "Brand": "Yamaha",
+    "Model": "YSP-5600BL ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f983"
+    },
+    "Brand": "Sony",
+    "Model": "HTST5000   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f984"
+    },
+    "Brand": "Harman Kardon",
+    "Model": "SABRE35 AM ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f985"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-K850/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f986"
+    },
+    "Brand": "Sony",
+    "Model": "HTNT5      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f987"
+    },
+    "Brand": "Toshiba",
+    "Model": "TY-WSB600  ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f988"
+    },
+    "Brand": "Harman Kardon",
+    "Model": "SB26AM     ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f98a"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-MS6500/ZA        ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f989"
+    },
+    "Brand": "Klipsch",
+    "Model": "RSB-8      ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f98b"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-MS650/ZA",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f98c"
+    },
+    "Brand": "Polk Audio",
+    "Model": "AM9214-A   ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f98d"
+    },
+    "Brand": "JBL",
+    "Model": "ARENA125CWH",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f98e"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-N700/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f98f"
+    },
+    "Brand": "Bose",
+    "Model": "767520-1100",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f990"
+    },
+    "Brand": "Bose",
+    "Model": "760093-1110",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f991"
+    },
+    "Brand": "Bose",
+    "Model": "768973-1110",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "_id": {
+        "$oid": "5b4f3130946e76269d62f992"
+    },
+    "Brand": "Samsung",
+    "Model": "HW-K950/ZA ",
+    "category": " Sound Bars",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Onkyo",
+    "Model": "TXNR585",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Sony",
+    "Model": "STRDN1080",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Yamaha",
+    "Model": "RX-A870BL",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Denon",
+    "Model": "AVRX2400H",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Pioneer",
+    "Model": "VSXLX303",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Onkyo",
+    "Model": "TX-RZ3100",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Onkyo",
+    "Model": "TXNR787",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Denon",
+    "Model": "AVRX2500H",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Denon",
+    "Model": "AVRS940H",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Denon",
+    "Model": "AVRX1500H",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Yamaha",
+    "Model": "RX-V685BL",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Pioneer",
+    "Model": "VSXLX103",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Harman Kardon",
+    "Model": "HK 3700",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Harman Kardon",
+    "Model": "HK 3770",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Pioneer",
+    "Model": "VSXLX502",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Onkyo",
+    "Model": "TXNR686",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Yamaha",
+    "Model": "R-N602BL",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Denon",
+    "Model": "AVRS740H",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "ELAC",
+    "Model": "DS-S101",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}, {
+    "Brand": "Onkyo",
+    "Model": "TX-RZ1100",
+    "category": "Portable DVD Player",
+    "source": "Fry's Electronics",
+    "sourceType": "retailer",
+    "sourceId": 1
+}]
